@@ -257,7 +257,7 @@ Any single model cell can be run independently as long as **Cell 1 (Initial Star
 
 ## 📍 Data Collection
 
-WiFi RSSI fingerprint data was collected at **CMKL University** using a mobile device scanning signals from **18 Access Points (APs)**. Survey points were marked at fixed intervals across multiple floors.
+WiFi RSSI fingerprint data was collected at **KMITL Lifelong Learning Center** using a mobile device scanning signals from **18 Access Points (APs)**. Survey points were marked at fixed intervals across multiple floors.
 
 - Signal value `100` = no signal detected from that AP → replaced with `-90 dBm` during preprocessing
 - Labels (X, Y, Z) represent the physical coordinates of each survey point in meters
@@ -275,4 +275,4 @@ Academic Research Project
 
 ## 📄 License
 
-This project is submitted for academic purposes at CMKL University.
+This project is submitted for academic purposes at King Mongkut's Institute of Technology Ladkrabang.
