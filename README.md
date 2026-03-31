@@ -266,7 +266,7 @@ WiFi RSSI fingerprint data was collected at **KMITL Lifelong Learning Center** u
 
 ## 👩‍💻 Author
 
-**Bordin Pantdej** · King Mongkut's Institute of Technology Ladkrabang
+**Bordin Pantdej** · King Mongkut's Institute of Technology Ladkrabang <br>
 **Wasan Boonsong** · King Mongkut's Institute of Technology Ladkrabang
 
 Academic Research Project
